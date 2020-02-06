@@ -1,5 +1,10 @@
 _Franzin Alberto_        _5BIA, 6/02/2020_
 
+[Documentazione Tecnica (Link)](https://docs.google.com/document/d/1Ik2FCUSA7D1e7oXsPwGSOXhLZ0HD6IrKTNauzZjuDDg/edit?usp=sharing/)
+
+[Presentazione Back Pack Maker (link)](https://docs.google.com/presentation/d/1lvxRPlc33xVTagd2AjKHb-xJPV2R7pc3IjUEZymRA2g/edit?usp=sharing)
+
+
 **Sviluppo App Android**
 
 *Specifiche tecniche*
