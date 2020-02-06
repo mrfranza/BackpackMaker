@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Back Pack Maker</string>
+    <string name="sample_text">Sample Text</string>
+    <string name="todo">TODO</string>
+    <string name="instruction">1.Seleziona un giorno della settimana\n2.Aggiungi o togli oggetti dal tuo zaino\n</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Back Pack Maker</string>
+    <string name="nav_header_subtitle">franzinalberto01@@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_snooze">Notification Time</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+
+    <string name="title_activity_principal_mnu">PrincipalMnu</string>
+    <string name="title_activity_principal_menu">Back Pack Maker</string>
+    <string name="test_notifica">TEST_NOTIFICA (alta priorità)</string>
+    <string name="test_notifica2">TEST_NOTIFICA (bassa priorità)</string>
+    <string name="scegli_il_tema_dell_app">SCEGLI IL TEMA DELL\'APP</string>
+    <string name="channel_name">timetobackpack</string>
+    <string name="channel_description">startnotification</string>
+    <string name="attiva_disattiva_suononotifica">Attiva/Disattiva SuonoNotifica</string>
+    <string name="attiva_disattiva_notifiche">Attiva/Disattiva Notifiche</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>
