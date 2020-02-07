@@ -33,7 +33,7 @@ public class ShareFragment extends Fragment {
 
                 Intent sendIntent = new Intent();
                 sendIntent.setAction(Intent.ACTION_SEND);
-                sendIntent.putExtra(Intent.EXTRA_TEXT, "Hey friends, this app is so useful, i hope you like it! https://drive.google.com/file/d/11gI7nwnMyaj9I_YS8k_ZVxC4WZd63xKv/view?usp=sharing");
+                sendIntent.putExtra(Intent.EXTRA_TEXT, "Hey friends, this app is so useful, i hope you like it! https://github.com/mrfranza/BackpackMaker");
                 sendIntent.setType("text/plain");
 
                 Intent shareIntent = Intent.createChooser(sendIntent, null);
