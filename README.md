@@ -1,8 +1,9 @@
 _Franzin Alberto_        _5BIA, 6/02/2020_
 
-| Version       | File          				    |
-| ------------- |:-------------------------------------------------:|
-| 1.0           |[Documentazione Tecnica (Link)](https://shorturl.at/lnrX3) |
+**APK DOWNLOAD**
+| Version       | File          				       |
+| ------------- |:----------------------------------------------------:|
+| 1.0           |[Backpack Maker 1.0 (APK)](https://shorturl.at/lnrX3) |
 
 [Documentazione Tecnica (Link)](https://docs.google.com/document/d/1Ik2FCUSA7D1e7oXsPwGSOXhLZ0HD6IrKTNauzZjuDDg/edit?usp=sharing/)
 
