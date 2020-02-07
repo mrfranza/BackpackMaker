@@ -137,13 +137,13 @@ continua.setOnClickListener(new View.OnClickListener() {
 
 **Development**
 
-Target API level: \&gt;= 25
+Target API level: \&gt;= 29
 
-Minimum API level: 29
+Minimum API level: 25
 
 IDE: Android Studio
 
-Man-hours: 2 month
+Man-hours: 120 hours
 
 **Problems and difficulties**
 
